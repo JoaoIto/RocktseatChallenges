@@ -1,0 +1,25 @@
+#check{
+    height: 40px;
+    width: 330px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#checkbox{
+    width: 35px;
+    height: 25px;
+}
+.check{
+    width: 150px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+#forget{
+    color: var(--primary-color);
+    cursor: pointer;
+}

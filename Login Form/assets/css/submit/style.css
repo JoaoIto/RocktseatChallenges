@@ -1,0 +1,25 @@
+#submit{
+    background-color: var(--primary-color);
+    color: #6d5312;
+    font-weight: bold;
+    transition: 0.25s all;
+    border: none;
+    cursor: pointer;
+}
+
+#submit:hover{
+    background-color: #eec356;
+}
+
+#submit:active{
+    color: #fff;
+    background-color: #fab300;
+}
+
+#register{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    margin-top: 20px;
+    color: var(--primary-color);
+}
